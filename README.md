@@ -20,3 +20,4 @@ How can I approach designing software?
 3. Use appropriate design patterns
 4. Deploy prototype and iterate on user feedback
 5. Document Software design
+---
